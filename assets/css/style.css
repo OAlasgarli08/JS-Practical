@@ -1,0 +1,32 @@
+body{
+    background-color: #212121;
+    color: white;
+    font-size: 20px;
+}
+
+input{
+    width: 1000px;
+    height: 40px;
+    border-radius: 30px;
+    padding-left: 10px;
+    background-color: red;
+    color: blue;
+}
+
+input::placeholder{
+    color: blue;
+}
+
+
+button{
+    width: 300px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: blue;
+    color: red;
+}
+
+td{
+    width: 1000px;
+}
+ 
